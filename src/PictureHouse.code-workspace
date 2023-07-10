@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/PictureHouse/PictureHouse"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
